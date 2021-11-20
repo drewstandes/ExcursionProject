@@ -19,3 +19,20 @@ header {
 .downloadLink:hover {
         cursor: pointer;
 }
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.sectionDescription {
+    color: gray;
+    font-size: 21px;
+}
+
+.trademark {
+    font-size: 21px;
+    text-align: right;
+    color: gray;
+}
