@@ -1,0 +1,21 @@
+* {
+    background-color: black;
+    font-family: verdana;
+    font-weight: normal;
+    text-align: center;
+}
+
+header {
+    color: white;
+    font-size: 50px;
+}
+
+.downloadLink {
+    font-size: 16px;
+    color: aquamarine;  
+    text-decoration: underline;        
+}
+
+.downloadLink:hover {
+        cursor: pointer;
+}
